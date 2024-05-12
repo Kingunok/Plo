@@ -9,4 +9,4 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["bash", "pyteledeploy.sh"]
+CMD ["bash", "pyteledeploy.sh", "&", "python3", "alive.py"]
