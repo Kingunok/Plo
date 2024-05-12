@@ -50,7 +50,7 @@ A Simple **.sh & .py Script** with python web to make your Repo Deployable to He
 
 <div align="center">
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/SilentDemonSD/pyTele-Loader) 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/BalaPriyan/Ploader) 
 
 </div>
 
